@@ -2,7 +2,7 @@ AI Resume & Job Match Assistant
 
 An AI-powered resume analysis tool that compares a candidate's resume with a job description and generates a structured report containing matched skills, missing or unclear skills, resume improvement suggestions, interview topics, and evidence notes.
 
-This project was built as a Day 16 Generative AI mini project using Python, Groq API, Prompt Engineering, and Structured Outputs.
+This project was built as a  Generative AI mini project using Python, Groq API, Prompt Engineering, and Structured Outputs.
 
 🚀 Project Overview
 
